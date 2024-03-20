@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update</title>
+</head>
+<body>
+    <form action="/update_form" method="post">
+        <input type="number" name="id" placeholder="id">
+        <select name="field">
+            <option value="name">NAME</option>
+            <option value="phone">PHONE</option>
+            <option value="id">ID</option>
+            <option value="email">EMAIL</option>
+            <option value="address">ADDRESS</option>
+            <option value="percentage">PERCENTAGE</option>
+            <option value="course">COURSE</option>
+        </select>
+        <input type="text" name="new_value" placeholder="enter new value">
+        <input type="submit">
+    </form>
+</body>
+</html>

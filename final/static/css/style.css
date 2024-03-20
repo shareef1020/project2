@@ -1,0 +1,106 @@
+.banner-section{
+    float: left;
+    width: 100%;
+}
+.banner-section img{
+    width: 100%;
+}
+.sub-hero-section-1{
+    float: left;
+    width: 50%;
+}
+.sub-hero-section-1 img{
+    width: 80%;
+}
+.sub-hero-section-2{
+    float: right;
+    width: 50%;
+}
+.sub-hero-section-2 img{
+    width: 80%;
+    background-color: red;
+}
+.hero-section h1{
+    font-family: 'Rubik Doodle Shadow';
+}
+.gallery-section{
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.gallery-pics{
+    float: left;
+    width: 100%;
+    background-color: chocolate;
+}
+.gallery-pics img{
+    width: 20%;
+    float: left;
+}
+.gallery-1{
+    height: 27.8%;
+}
+.volunteer-section{
+    float: left;
+    margin: 100px 0 0 0;
+    width: 100%;
+}
+.sub-volunteer-section-1{
+    float: left;
+    width: 30%;
+}
+.sub-volunteer-section-1 img{
+    width: 100%;
+    margin: 0 0 0 130px;
+}
+.sub-volunteer-section-2{
+    float: right;
+    width: 50%;
+    margin: 60px 20px 0 0;
+}
+.footer-section{
+    float: left;
+    width: 100%;
+    background-color: gray;
+}
+.footer-section h1{
+    font-family: sans-serif;
+}
+.sub-footer-section-1{
+    width: 17%;
+    float: left;
+    margin: 5px 0 0 10%;
+    border-style: solid;
+    color: white;
+    padding: 10px;
+}
+.sub-footer-section-2{
+    float: left;
+    width: 20%;
+    margin: 40px 0 0 40px;
+    border-style: solid;
+    padding: 10px;
+}
+.sub-footer-section-3{
+    float: left;
+    width: 20%;
+    margin: 5px 0 0 10%;
+    border-style: solid;
+    color: white;
+    padding: 10px;
+}
+.copyright{
+    float: left;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+}
+.admission-page{
+    width: 100%;
+    float: left;
+}
+button{
+    float: left;
+    width: 40%;
+    padding: 1rem;
+}
