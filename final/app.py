@@ -64,8 +64,7 @@ def view():
 def update():
     return render_template('update.html')
 
-@app.route('/update_form' method=['POST'])
-def update_form():
+#hi this is shareef
     
     
 app.run()
